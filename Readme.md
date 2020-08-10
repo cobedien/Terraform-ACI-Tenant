@@ -1,4 +1,4 @@
-## Terraform-ACI-Tenant
+# Terraform-ACI-Tenant
 
 This Terraform configuration creates a Tenant and other resources
 
